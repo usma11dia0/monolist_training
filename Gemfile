@@ -5,6 +5,8 @@ ruby '2.7.5'
 
 gem 'dotenv-rails'
 
+gem 'rakuten_web_service'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
 gem 'rails', '~> 6.1.5'
 # Use mysql as the database for Active Record
